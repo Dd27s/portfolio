@@ -14,13 +14,13 @@ project:
     - file: content/mon_projet.ipynb
     
 site:
-template: book-theme
-options:
-  folders: true
-  hide_footer_links: true
-  # favicon: favicon.ico
-  logo: content/other/site_logo.png
-  logo_text: "André Dénis"
+  template: book-theme
+  options:
+    folders: true
+    hide_footer_links: true
+    # favicon: favicon.ico
+    logo: content/other/site_logo.png
+    logo_text: "André Dénis                GEOINFORMATIQUE II"
 
 
   nav: []
