@@ -7,4 +7,4 @@
 :align: left
 ```
 \
-Je suis étudiant(e) en école inclusive j'essaye d'avoir mon Bachelor en ej ne sais toujours pas à **l'UniL**, avec un intérêt particulier pour me sauver de la faim car je mange tous les lundi un sandwich a rien. 
+Je suis étudiant(e) en école inclusive j'essaye d'avoir mon Bachelor en je ne sais toujours pas à **l'UniL**, avec un intérêt particulier pour me sauver de la faim car je mange tous les lundi un sandwich a rien. 
