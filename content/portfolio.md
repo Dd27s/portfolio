@@ -10,11 +10,11 @@
 
 *Celles que tu reconnais, pas celles que tu devrais avoir. La référence suffit, par ex. TELEDE-3, avec trois mots d'intitulé.*
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. HYDRFORMPROC-2
+2. GEOMORII-3
+3. EXCUCARTGEOM-1
+4. ANALVECT-2
+5. ECOLVEGE-3
 
 ---
 
