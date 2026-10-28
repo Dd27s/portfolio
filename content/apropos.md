@@ -1,4 +1,4 @@
-# À propos de Moi, Noè De Carlo
+# À propos de moi
 
 ```{image} ./img/IMG_0849.PNG
 :alt: Photo de profil
@@ -6,5 +6,5 @@
 :width: 200px
 :align: left
 ```
-\
-Je suis étudiant(e) en école inclusive j'essaye d'avoir mon Bachelor en je ne sais toujours pas à **l'UniL**, avec un intérêt particulier pour me sauver de la faim car je mange tous les lundi un sandwich a rien. 
+
+Je suis étudiant en Bachelor en sciences de l’environnement à l’Université de Lausanne (UNIL), au sein de la Faculté des géosciences et de l’environnement. Je m’intéresse particulièrement aux processus terrestres, notamment ceux qui façonnent la chaîne alpine, à son évolution et aux interactions entre les différents éléments qui composent ces milieux.
