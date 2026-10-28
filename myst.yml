@@ -14,23 +14,14 @@ project:
     - file: content/mon_projet.ipynb
     
 site:
-  
-/* Titre du site */
-.site-title {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-}
+template: book-theme
+options:
+  folders: true
+  hide_footer_links: true
+  # favicon: favicon.ico
+  logo: content/other/site_logo.png
+  logo_text: "André Dénis"
 
-.site-title::after {
-  content: "GEOINFORMATIQUE II";
-  display: block;
-  font-size: 0.7em;
-  font-weight: normal;
-  margin-top: 5px;
-  text-align: center;
-}
 
   nav: []
   parts: 
