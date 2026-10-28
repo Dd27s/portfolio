@@ -1,4 +1,4 @@
-# À propos Moi, Noè De Carlo
+# À propos de Moi, Noè De Carlo
 
 ```{image} ./img/IMG_0849.PNG
 :alt: Photo de profil
