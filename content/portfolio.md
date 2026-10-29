@@ -1,4 +1,5 @@
 # Portfolio de compétences
+
 ## 1. Cinq compétences que je reconnais avoir travaillées
 
 *Celles que tu reconnais, pas celles que tu devrais avoir. La référence suffit, par ex. TELEDE-3, avec trois mots d'intitulé.*
@@ -9,7 +10,6 @@
 4. ANALVECT-2
 5. ECOLVEGE-3
 
----
 
 ## 2. Trois de ces cinq, avec leur preuve
 
