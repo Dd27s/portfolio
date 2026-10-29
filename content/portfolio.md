@@ -1,11 +1,4 @@
 # Portfolio de compétences
-
-**Orientation :**
-
-[Lien de l'arbre des connaissances](https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/) *(filtre sur ton orientation)*
-
----
-
 ## 1. Cinq compétences que je reconnais avoir travaillées
 
 *Celles que tu reconnais, pas celles que tu devrais avoir. La référence suffit, par ex. TELEDE-3, avec trois mots d'intitulé.*
