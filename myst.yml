@@ -11,7 +11,7 @@ project:
     - file: content/apropos.md
     - file: content/portfolio.md
     - file: content/rapport_final.md
-    - file: content/mon_projet.ipynb
+    - file: content/prediction.ipynb
     
 site:
   template: book-theme
