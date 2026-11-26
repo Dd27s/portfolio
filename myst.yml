@@ -12,7 +12,7 @@ project:
     - file: content/apropos.md
     - file: content/portfolio.md
     - file: content/rapport_final.md
-    - file: content/prediction.ipynb
+    - file: content/notebookmaitre.ipynb
     
 site:
   template: book-theme
